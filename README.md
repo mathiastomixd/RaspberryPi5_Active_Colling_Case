@@ -1,7 +1,7 @@
 # RaspberryPi5_Active_Colling_Case
 An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan.
 
-<img src="./pictures/Top.jpg" width="1000" alt="Top Ansicht">
+<img src="./Pictures/Top.jpg" width="1000" alt="Top Ansicht">
 
 ## You need!
 1. NF-A4x10 5V PWM: https://www.noctua.at/en/products/nf-a4x10-5v-pwm
