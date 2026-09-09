@@ -17,3 +17,8 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 2. Go to the bottom of the file and paste the code I provide under "[all]": Code -> Extention
 3. Save the file and close it: Strg + O, Enter and Strg + X
 4. Reboot the Pi and wait until you can log in again: sudo reboot
+
+## Things I need to update in the future
+### Describe how to print without any supports in the hexagons
+### How to solder the fan wires and JST SH Connector correct together
+### How to mount everthing together in a few simple steps
