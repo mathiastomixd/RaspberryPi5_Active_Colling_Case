@@ -11,7 +11,7 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 5. 3D printer or you can order it by a print company
 6. Soldering iron for cables of the fan
 7. Isolating tape or shrink tubes
-Total Costs: 
+#### Total Costs: 
 
 ## Programm the temperatur freshholds and speeds of the fan:
 1. Go into the config.txt file on your Raspberry Pi5: sudo nano /boot/firmware/config.txt
