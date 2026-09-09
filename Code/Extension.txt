@@ -1,0 +1,22 @@
+[all]
+dtparam=cooling_fan=on
+
+# Step 0 RWM 25%
+dtparam=fan_temp0=40000
+dtparam=fan_temp0_hyst=5000
+dtparam=fan_temp0_speed=64
+
+# Step 1 PWM 25%
+dtparam=fan_temp1=60000
+dtparam=fan_temp1_hyst=5000
+dtparam=fan_temp1_speed=64
+
+# Step 2 PWM 50%
+dtparam=fan_temp2=70000
+dtparam=fan_temp2_hyst=5000
+dtparam=fan_temp2_speed=128
+
+# Step 3 PWM 100%
+dtparam=fan_temp3=80000
+dtparam=fan_temp3_hyst=10000
+dtparam=fan_temp3_speed=255
