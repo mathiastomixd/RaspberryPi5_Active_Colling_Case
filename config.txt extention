@@ -1,0 +1,23 @@
+[all]
+dtparam=cooling_fan=on
+
+# Stufe 0 leichte Drehung 25%
+dtparam=fan_temp0=40000
+dtparam=fan_temp0_hyst=5000
+dtparam=fan_temp0_speed=64
+
+# Stufe 1 mittlere Drehung 50%
+dtparam=fan_temp1=60000
+dtparam=fan_temp1_hyst=5000
+dtparam=fan_temp1_speed=64
+
+# Stufe 2 schnelle Drehung 75%
+dtparam=fan_temp2=70000
+dtparam=fan_temp2_hyst=5000
+dtparam=fan_temp2_speed=128
+
+# Stufe 3 maximale Drehung 100%
+dtparam=fan_temp3=80000
+dtparam=fan_temp3_hyst=10000
+dtparam=fan_temp3_speed=255
+kernel=kernel8.img
