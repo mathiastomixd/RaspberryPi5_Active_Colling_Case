@@ -11,6 +11,7 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 5. 3D printer or you can order it by a print company
 6. Soldering iron for cables of the fan
 7. Isolating tape or shrink tubes
+Total Costs: 
 
 ## Programm the temperatur freshholds and speeds of the fan:
 1. Go into the config.txt file on your Raspberry Pi5: sudo nano /boot/firmware/config.txt
@@ -19,6 +20,7 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 4. Reboot the Pi and wait until you can log in again: sudo reboot
 
 ## Things I need to update in the future
-### Describe how to print without any supports in the hexagons
-### How to solder the fan wires and JST SH Connector correct together
-### How to mount everthing together in a few simple steps
+#### Describe how to print without any supports in the hexagons
+#### How to solder the fan wires and JST SH Connector correct together
+#### How to mount everthing together in a few simple steps
+#### Tests on how effective is this really
