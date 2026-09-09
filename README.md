@@ -14,5 +14,6 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 
 ## Programm the temperatur freshholds and speeds of the fan:
 1. Go into the config.txt file on your Raspberry Pi5: sudo nano /boot/firmware/config.txt
-2. Go to the bottom of the file, paste the code I provide on Github and save the file: Strg + O, Enter and Strg + X (To Close the file)
-3. Reboot the Pi and wait until you can log in again: sudo reboot
+2. Go to the bottom of the file and paste the code I provide under "[all]": Code -> Extention
+3. Save the file and close it: Strg + O, Enter and Strg + X
+4. Reboot the Pi and wait until you can log in again: sudo reboot
