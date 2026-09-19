@@ -20,9 +20,11 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 4. Reboot the Pi and wait until you can log in again: sudo reboot
 <br>
 
-## Settings - Cura Slicer
-You should change your settings to your specific printer and material. <br>
-In fact there are some settings you need, especially for the supports.
+## Settings for Cura Slicer
+1. You should change your settings to your specific printer and material, <br>
+but in fact there are some settings you need, especially for the supports. <br>
+2. The 3D models are printed with the groove facing to the bottom, <br>
+in general you doesn't need to change the ordination. <br>
 <img src="./Pictures/Cura Side View.png" width="600">
 
 ### Support
@@ -32,7 +34,7 @@ Change everthing in **Support** to standard and add the settings below.<br>
 **Support Overhang Angle** -> **55.0°** <br>
 **Support Pattern** -> **Zig Zag** <br>
 **Support Density** -> **10%** <br>
-**Minimum Support Area** -> **40mm** Provide supports in large Areas without supports in the hexagons.
+**Minimum Support Area** -> **40mm** -> Provides supports in large areas without the supports in the hexagons.
 
 ### Other settings you can copy if you want
 **Quality** Layer Height <= 0.2mm <br>
