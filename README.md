@@ -50,8 +50,10 @@ To connect the fan wires we use the already existing jst header that is located 
 2. Strip the big insulation 2cm and from that the small insulation of the 4 wires to 1cm
 3. Strip the wire of the JST-SH connector to 5cm and from that the small insulation of the 4 wires to 1cm
 <br>
+Solder the wires according to the diagram provides below:<br>
 Noctura Fan Pinout<br>
 <img src="./Pictures/Noctura-Pinout.jpg" width="300">
+JST SH Pinout<br>
 <img src="./Pictures/Raspberry JST SH Fan Pinout.jfif" width="300">
 <br>
 <br>
