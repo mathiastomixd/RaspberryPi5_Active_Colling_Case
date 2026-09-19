@@ -52,7 +52,7 @@ To connect the fan wires we use the already existing jst header that is located 
 <br>
 Noctura Fan Pinout<br>
 <img src="./Pictures/Noctura-Pinout.jpg" width="300">
-<img src="./Pictures/Raspberry JST SH Fan Pinout.jpg" width="300">
+<img src="./Pictures/Raspberry JST SH Fan Pinout.jfif" width="300">
 <br>
 <br>
 <br>
