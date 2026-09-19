@@ -47,6 +47,7 @@ Change everthing in **Support** to standard and add the settings below.<br>
 <br>
 <br>
 ## Things I need to update in the future
+#### ~~Explain the settings for 3D print espacially for the supports~~
 #### How to solder the fan wires and JST SH Connector correct together
 #### How to mount everthing together in a few simple steps
 #### Tests on how effective is this really
