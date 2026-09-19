@@ -44,6 +44,12 @@ Change everthing in **Support** to standard and add the settings below.<br>
 **Build Plate Adhesion** -> Brim <br>
 **Brim Width** -> 8mm
 <br>
+
+## Connect the fan wires to the Raspberry Pi 5
+To connect the wires we use the already existing jst header.
+
+
+<br>
 <br>
 <br>
 ## Things I need to update in the future
