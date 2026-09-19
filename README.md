@@ -42,13 +42,17 @@ Change everthing in **Support** to standard and add the settings below.<br>
 **Infill** Infill Density >= 10% <br>
 **Infill** Infill Pattern -> Lines <br>
 **Build Plate Adhesion** -> Brim <br>
-**Brim Width** -> 8mm
-<br>
+**Brim Width** -> 8mm <br>
 
 ## Connect the fan wires to the Raspberry Pi 5
-To connect the wires we use the already existing jst header.
-
-
+To connect the fan wires we use the already existing jst header that is located on the board. <br>
+1. Cut the wire of the fan to 7 cm
+2. Strip the big insulation 2cm and from that the small insulation of the 4 wires to 1cm
+3. Strip the wire of the JST-SH connector to 5cm and from that the small insulation of the 4 wires to 1cm
+<br>
+Noctura Fan Pinout<br>
+<img src="./Pictures/Noctura-Pinout.jpg" width="300">
+<img src="./Pictures/Raspberry JST SH Fan Pinout.jpg" width="300">
 <br>
 <br>
 <br>
