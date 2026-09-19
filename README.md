@@ -1,7 +1,7 @@
 # RaspberryPi5_Active_Colling_Case
 An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan.
 
-<img src="./Pictures/Top.jpg" width="1000" alt="Top Ansicht">
+<img src="./Pictures/Side 1.jpg" width="1000">
 
 ## You need!
 1. NF-A4x10 5V PWM: https://www.noctua.at/en/products/nf-a4x10-5v-pwm
@@ -23,6 +23,7 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 ## Settings - Cura Slicer
 You should change your settings to your specific printer and material. <br>
 In fact there are some settings you need, especially for the supports.
+<img src="./Pictures/Cura Side View.png" width="600">
 
 ### Support
 Change everthing in **Support** to standard and add the settings below.<br>
