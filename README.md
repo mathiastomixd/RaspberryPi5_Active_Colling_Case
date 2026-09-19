@@ -18,9 +18,32 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 2. Go to the bottom of the file and paste the code I provide under "[all]": Code -> Extention
 3. Save the file and close it: Strg + O, Enter and Strg + X
 4. Reboot the Pi and wait until you can log in again: sudo reboot
+<br>
 
+## Settings - Cura Slicer
+You should change your settings to your specific printer and material. <br>
+In fact there are some settings you need, especially for the supports.
+
+### Support
+Change everthing in **Support** to standard and add the settings below.<br>
+**Support Structure** -> **Normal** <br>
+**Support Placement** -> **Everywhere** <br>
+**Support Overhang Angle** -> **55.0°** <br>
+**Support Pattern** -> **Zig Zag** <br>
+**Support Density** -> **10%** <br>
+**Minimum Support Area** -> **40mm** Provide supports in large Areas without supports in the hexagons.
+
+### Other settings you can copy if you want
+**Quality** Layer Height <= 0.2mm <br>
+**Walls** -> ZSeam Position should be placed <br>
+**Infill** Infill Density >= 10% <br>
+**Infill** Infill Pattern -> Lines <br>
+**Build Plate Adhesion** -> Brim <br>
+**Brim Width** -> 8mm
+<br>
+<br>
+<br>
 ## Things I need to update in the future
-#### Describe how to print without any supports in the hexagons
 #### How to solder the fan wires and JST SH Connector correct together
 #### How to mount everthing together in a few simple steps
 #### Tests on how effective is this really
