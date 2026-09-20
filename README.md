@@ -17,7 +17,7 @@ An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan
 1. You should change your settings to your specific printer and material, <br>
 but in fact there are some settings you need, especially for the supports. <br>
 2. The 3D models are printed with the groove facing to the bottom, <br>
-in general you doesn't need to change the ordination. <br>
+in general you doesn't need to change the orientation. <br>
 <table>
   <tr>
     <td><img src="./Pictures/3D model and printed/Cura Side View.jpg" width=425></td>
