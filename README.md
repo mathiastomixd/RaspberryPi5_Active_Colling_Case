@@ -1,4 +1,4 @@
-# RaspberryPi5_Active_Colling_Case
+# RaspberryPi5_Active_Cooling_Case
 An active colling case for your RaspberryPi5 with EDATEC Heatsink and Noctua Fan.
 
 <img src="./Pictures/Camera/Side 1.jpg" width="800">
